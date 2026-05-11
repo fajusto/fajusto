@@ -19,9 +19,9 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
    <a href="mailto:fabriciosjjb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </p>
 
-<p align="center">Skilled with:</p>
+<p align="left">Skilled with:</p>
 
-<p align="center">
+<p align="left">
    <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <!-- HTML Icon -->
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
