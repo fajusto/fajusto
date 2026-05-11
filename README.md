@@ -57,4 +57,4 @@ src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94com
 </table> 
 -->
 
-<!-- ![Snake animation](https://github.com/fajusto/fajusto/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/fajusto/fajusto/blob/output/github-contribution-grid-snake.svg)
