@@ -1,5 +1,5 @@
 <img align="right"
-src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590116.png" width="50%"/>
+src="https://github.com/fajusto/fajusto/blob/master/%E2%80%94Pngtree%E2%80%94computer%20programmer%20s%20career_4590117.png" width="50%"/>
 
 <h1>
    <p align="center">
